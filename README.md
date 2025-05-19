@@ -67,9 +67,6 @@ O projeto inclui análises sobre:
 - Marcelo Victor Sousa Lima
 - [LinkedIn](https://www.linkedin.com/in/marcelo-victor-sousa-lima-611934124/)
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## 🙏 Agradecimentos
 
