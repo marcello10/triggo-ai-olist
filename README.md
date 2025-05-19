@@ -65,7 +65,7 @@ O projeto inclui análises sobre:
 ## 👨‍💻 Autor
 
 - Marcelo Victor Sousa Lima
-- LinkedIn: [marcelo](https://www.linkedin.com/in/marcelo-victor-sousa-lima-611934124/)
+- [LinkedIn](https://www.linkedin.com/in/marcelo-victor-sousa-lima-611934124/)
 
 ## 📄 Licença
 
