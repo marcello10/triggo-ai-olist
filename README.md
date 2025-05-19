@@ -53,8 +53,10 @@ source venv/bin/activate  # Linux/Mac
 pip install -r requirements.txt
 ```
 
-4. Execute o `jupyter notebook `
-`analyses-olist.ipynb`
+4. Execute o jupyter notebook:
+```bash 
+jupyter lab analyses-olist.ipynb
+```
 
 ## 📊 Análise de Dados
 
